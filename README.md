@@ -38,4 +38,4 @@ The Magic Cube IoT project offers a captivating fusion of technology and a timel
 
 
 
-[![Watch the video](https://github.com/Hasib98/magic-cube-iot/blob/main/magic_cube.jpg)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/Hasib98/magic-cube-iot/blob/main/magic_cube.jpg)](https://drive.google.com/file/d/1GtiTrHXPsSEcTMzMibbAPSvsVPxv7CCa/view?usp=sharing)
