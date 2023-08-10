@@ -35,3 +35,7 @@ To get started with the Magic Cube IoT project, follow the instructions provided
 With the project up and running, you'll be able to control and monitor your Rubik's Cube remotely, experience real-time motion detection, and even explore the algorithmic solving capabilities.
 
 The Magic Cube IoT project offers a captivating fusion of technology and a timeless puzzle, providing an engaging and interactive experience for Rubik's Cube enthusiasts and IoT enthusiasts alike.
+
+
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
